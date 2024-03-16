@@ -4,7 +4,7 @@
 
 **Day-1**
 
-• Create a simple home page with top naviagation menu as per the UI
+• Create a simple home page with top naviagation menu as per the UI\
 • Create a grid view with list of customer information to be displayed
 
 **Day-2**
