@@ -2,6 +2,13 @@
 
 ### Week-1
 
+D1 - Sat 16 Available - 8:00 PM - 10:00 PM
+D2 - 
+
+***Week-2**
+
+
+
 **Day-1**
 
 • Create a simple home page with top naviagation menu as per the UI\
