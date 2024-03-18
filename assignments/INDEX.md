@@ -2,17 +2,24 @@
 
 ### Week-1
 
-D1 - Sat 16 Available - 8:00 PM - 10:00 PM
-D2 - 
+D1 - Fri 15 Joined(unassigned)
+D2 - Sat 16 Available (postponed)
 
-***Week-2**
-
-
+**Week-1**
 
 **Day-1**
 
-• Create a simple home page with top naviagation menu as per the UI\
-• Create a grid view with list of customer information to be displayed
+Day1-Monday : 10:00AM - 2:00PM
+
+Day2-Tuesday : 8:00PM-11:00PM
+
+Day3-Wednesday : 1:00PM-4:00PM
+
+Day4-Thursday : 8:00PM-11:00PM
+
+Day5-Friday : 3:00PM-7:00PM
+
+Day6-Saturday :8:00PM-11:00PM
 
 **Day-2**
 
