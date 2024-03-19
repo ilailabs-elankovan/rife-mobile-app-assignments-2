@@ -6,7 +6,7 @@ A. Create a simple home page with top naviagation menu as per the UI
 
 B. Create a grid view with list of customer information to be displayed
 
-
+```dart
 import 'package:flutter/material.dart';
 
 void main() {
@@ -209,3 +209,4 @@ class UserCard extends StatelessWidget {
     );
   }
 }
+```
